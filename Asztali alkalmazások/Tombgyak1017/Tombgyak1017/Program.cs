@@ -117,8 +117,8 @@ void szakasz2(int[] szamTomb)
         }
 
 
-    }
-    for (int i = Maxkezd; i < Maxveg + 1; i++) 
+    
+    for (int i = Maxkezd; i < Maxveg + +1; i++) 
     {
         Console.WriteLine("a legnagyobb növekvő számsorozat {0} elemű: ", Maxveg-Maxkezd);
 
@@ -127,5 +127,5 @@ void szakasz2(int[] szamTomb)
 
     
 }
-szakasz2(szamok);
+szakasz2(szamok)
 
