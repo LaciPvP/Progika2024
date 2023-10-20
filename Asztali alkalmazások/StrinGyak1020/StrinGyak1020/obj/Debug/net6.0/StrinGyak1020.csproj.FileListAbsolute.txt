@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\StrinGyak1020\StrinGyak1020\bin\Debug\net6.0\StrinGyak1020.exe
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\StrinGyak1020\StrinGyak1020\bin\Debug\net6.0\StrinGyak1020.deps.json
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\StrinGyak1020\StrinGyak1020\bin\Debug\net6.0\StrinGyak1020.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\StrinGyak1020\StrinGyak1020\bin\Debug\net6.0\StrinGyak1020.dll
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\StrinGyak1020\StrinGyak1020\bin\Debug\net6.0\StrinGyak1020.pdb
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\StrinGyak1020\StrinGyak1020\obj\Debug\net6.0\StrinGyak1020.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\StrinGyak1020\StrinGyak1020\obj\Debug\net6.0\StrinGyak1020.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\StrinGyak1020\StrinGyak1020\obj\Debug\net6.0\StrinGyak1020.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\StrinGyak1020\StrinGyak1020\obj\Debug\net6.0\StrinGyak1020.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\StrinGyak1020\StrinGyak1020\obj\Debug\net6.0\StrinGyak1020.dll
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\StrinGyak1020\StrinGyak1020\obj\Debug\net6.0\refint\StrinGyak1020.dll
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\StrinGyak1020\StrinGyak1020\obj\Debug\net6.0\StrinGyak1020.pdb
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\StrinGyak1020\StrinGyak1020\obj\Debug\net6.0\StrinGyak1020.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\StrinGyak1020\StrinGyak1020\obj\Debug\net6.0\ref\StrinGyak1020.dll

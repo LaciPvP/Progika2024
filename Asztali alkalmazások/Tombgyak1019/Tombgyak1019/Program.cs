@@ -19,4 +19,3 @@ int[] Ujtomb(int darab, int minimum, int maximum)
 }
 
 int[] szamok = Ujtomb(10000, 0, 9999);
-Console.WriteLine(Ujtomb);
