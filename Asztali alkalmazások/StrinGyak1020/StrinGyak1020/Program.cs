@@ -24,3 +24,6 @@ for (int i = 0; i < szoveg.Length; i++)
 Console.WriteLine(szoveg.ToUpper());
 string[] darab= szoveg.Split(" ");
 Console.WriteLine(darab[0] + " " + darab[1].ToUpper());
+
+Console.WriteLine(szoveg.Substring(0,szoveg.IndexOf(" ")+1)
+                                                         +szoveg.Substring(szoveg.IndexOf(" ")+1).ToUpper());

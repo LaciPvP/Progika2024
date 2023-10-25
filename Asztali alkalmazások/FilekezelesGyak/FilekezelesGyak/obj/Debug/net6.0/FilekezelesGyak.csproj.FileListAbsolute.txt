@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\FilekezelesGyak\FilekezelesGyak\obj\Debug\net6.0\FilekezelesGyak.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\FilekezelesGyak\FilekezelesGyak\obj\Debug\net6.0\FilekezelesGyak.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\FilekezelesGyak\FilekezelesGyak\obj\Debug\net6.0\FilekezelesGyak.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\FilekezelesGyak\FilekezelesGyak\obj\Debug\net6.0\FilekezelesGyak.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\FilekezelesGyak\FilekezelesGyak\bin\Debug\net6.0\FilekezelesGyak.exe
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\FilekezelesGyak\FilekezelesGyak\bin\Debug\net6.0\FilekezelesGyak.deps.json
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\FilekezelesGyak\FilekezelesGyak\bin\Debug\net6.0\FilekezelesGyak.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\FilekezelesGyak\FilekezelesGyak\bin\Debug\net6.0\FilekezelesGyak.dll
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\FilekezelesGyak\FilekezelesGyak\bin\Debug\net6.0\FilekezelesGyak.pdb
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\FilekezelesGyak\FilekezelesGyak\obj\Debug\net6.0\FilekezelesGyak.dll
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\FilekezelesGyak\FilekezelesGyak\obj\Debug\net6.0\refint\FilekezelesGyak.dll
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\FilekezelesGyak\FilekezelesGyak\obj\Debug\net6.0\FilekezelesGyak.pdb
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\FilekezelesGyak\FilekezelesGyak\obj\Debug\net6.0\FilekezelesGyak.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\FilekezelesGyak\FilekezelesGyak\obj\Debug\net6.0\ref\FilekezelesGyak.dll
