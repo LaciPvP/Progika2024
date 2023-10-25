@@ -49,3 +49,5 @@ for (int i = 0; i < darabok.Length; i++)
 }
 ir.Close();
 
+
+File.WriteAllLines("szavak2.txt", darabok);
