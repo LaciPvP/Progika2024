@@ -1,0 +1,4 @@
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\HazifeladaT\HazifeladaT\obj\Debug\net6.0\HazifeladaT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\HazifeladaT\HazifeladaT\obj\Debug\net6.0\HazifeladaT.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\HazifeladaT\HazifeladaT\obj\Debug\net6.0\HazifeladaT.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\HazifeladaT\HazifeladaT\obj\Debug\net6.0\HazifeladaT.csproj.CoreCompileInputs.cache

@@ -2,13 +2,13 @@
 
 string szo = "";
 var rand = new Random();
-for (int i = 0; i < szavak; i++)
-{
+for (int i = 0; i < 5; i++) 
+{ 
     szo += betuk[rand.Next(betuk.Length)];
 }
 
 return szo;
-}
+
 
 var rand1 = new Random();
 string[] szavak = new string[10000];
@@ -93,6 +93,6 @@ for (int i = 0; i < file.Length; i++)
     }
 }
 
-string[] negy1 = negy.Trim().Split(" ");
-string[] ot1 = ot.Trim().Split(" ");
-string[] hat1 = hat.Trim().Split(" ");
+string[] negy1 = elso.Trim().Split(" ");
+string[] ot1 = masodik.Trim().Split(" ");
+string[] hat1 = harmadik.Trim().Split(" ");
