@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Helyi_munkakönyvtár\\Progi2024\\Progika2024\\Adatbázis Kezelés\\ListaGyak1117\\ListaGyak1117\\ListaGyak1117.csproj": {}
+    "D:\\Helyi_munkakönyvtár\\Progi2024\\Progika2024\\Asztali alkalmazások\\ListaGyak1117\\ListaGyak1117\\ListaGyak1117.csproj": {}
   },
   "projects": {
-    "D:\\Helyi_munkakönyvtár\\Progi2024\\Progika2024\\Adatbázis Kezelés\\ListaGyak1117\\ListaGyak1117\\ListaGyak1117.csproj": {
+    "D:\\Helyi_munkakönyvtár\\Progi2024\\Progika2024\\Asztali alkalmazások\\ListaGyak1117\\ListaGyak1117\\ListaGyak1117.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Helyi_munkakönyvtár\\Progi2024\\Progika2024\\Adatbázis Kezelés\\ListaGyak1117\\ListaGyak1117\\ListaGyak1117.csproj",
+        "projectUniqueName": "D:\\Helyi_munkakönyvtár\\Progi2024\\Progika2024\\Asztali alkalmazások\\ListaGyak1117\\ListaGyak1117\\ListaGyak1117.csproj",
         "projectName": "ListaGyak1117",
-        "projectPath": "D:\\Helyi_munkakönyvtár\\Progi2024\\Progika2024\\Adatbázis Kezelés\\ListaGyak1117\\ListaGyak1117\\ListaGyak1117.csproj",
+        "projectPath": "D:\\Helyi_munkakönyvtár\\Progi2024\\Progika2024\\Asztali alkalmazások\\ListaGyak1117\\ListaGyak1117\\ListaGyak1117.csproj",
         "packagesPath": "C:\\Users\\talasl21\\.nuget\\packages\\",
-        "outputPath": "D:\\Helyi_munkakönyvtár\\Progi2024\\Progika2024\\Adatbázis Kezelés\\ListaGyak1117\\ListaGyak1117\\obj\\",
+        "outputPath": "D:\\Helyi_munkakönyvtár\\Progi2024\\Progika2024\\Asztali alkalmazások\\ListaGyak1117\\ListaGyak1117\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\talasl21\\AppData\\Roaming\\NuGet\\NuGet.Config",
