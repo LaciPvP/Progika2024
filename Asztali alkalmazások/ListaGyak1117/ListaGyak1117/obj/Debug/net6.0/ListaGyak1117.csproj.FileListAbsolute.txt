@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Adatbázis Kezelés\ListaGyak1117\ListaGyak1117\bin\Debug\net6.0\ListaGyak1117.exe
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Adatbázis Kezelés\ListaGyak1117\ListaGyak1117\bin\Debug\net6.0\ListaGyak1117.deps.json
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Adatbázis Kezelés\ListaGyak1117\ListaGyak1117\bin\Debug\net6.0\ListaGyak1117.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Adatbázis Kezelés\ListaGyak1117\ListaGyak1117\bin\Debug\net6.0\ListaGyak1117.dll
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Adatbázis Kezelés\ListaGyak1117\ListaGyak1117\bin\Debug\net6.0\ListaGyak1117.pdb
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Adatbázis Kezelés\ListaGyak1117\ListaGyak1117\obj\Debug\net6.0\ListaGyak1117.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Adatbázis Kezelés\ListaGyak1117\ListaGyak1117\obj\Debug\net6.0\ListaGyak1117.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Adatbázis Kezelés\ListaGyak1117\ListaGyak1117\obj\Debug\net6.0\ListaGyak1117.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Adatbázis Kezelés\ListaGyak1117\ListaGyak1117\obj\Debug\net6.0\ListaGyak1117.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Adatbázis Kezelés\ListaGyak1117\ListaGyak1117\obj\Debug\net6.0\ListaGyak1117.dll
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Adatbázis Kezelés\ListaGyak1117\ListaGyak1117\obj\Debug\net6.0\refint\ListaGyak1117.dll
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Adatbázis Kezelés\ListaGyak1117\ListaGyak1117\obj\Debug\net6.0\ListaGyak1117.pdb
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Adatbázis Kezelés\ListaGyak1117\ListaGyak1117\obj\Debug\net6.0\ListaGyak1117.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Adatbázis Kezelés\ListaGyak1117\ListaGyak1117\obj\Debug\net6.0\ref\ListaGyak1117.dll
