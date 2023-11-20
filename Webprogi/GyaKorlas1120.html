@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gyakorlás 11.20</title>
+</head>
+<body>
+    <script>
+        function katt(elem)
+        {
+            let gombok = document.getElementsByTagName("button");
+            console.log(gombok);
+            for(let i = 0; i < gombok.length; i++)
+            {
+                gombok[i].style.backgroundColor="inherit";
+                gombok[i].style.color="";
+                gombok[i].style.border="";
+                gombok[i].style.width="";
+                gombok[i].style.height="";
+
+            }
+
+            //let elem = document.getElementById("katigomb");
+            //elem.innerHTML="kattints ide!";
+            console.log("kattintás volt!");
+            
+            elem.style.backgroundColor="red";
+            elem.style.color="white";
+            elem.style.border="2px solid black";
+            elem.style.width="200px";
+            elem.style.height="150px";
+
+
+            let elme = document.getElementsByClassName("katigomb2");
+            elem.innerHTML="kattints ide!";
+            console.log("kattintás volt!");
+            
+            //"elem" stílusozása.
+            elme.style.backgroundColor="blue";
+            elme.style.color="white";
+            elme.style.border="2px solid white";
+            elme.style.width="200px";
+            elme.style.height="150px";
+
+
+        }
+
+
+
+    </script>
+
+    <button onclick="katt(this)" id="katigomb">Első-gomb</button>
+    <button onclick="katt(this)" id="jani">Második-gomb</button>
+    <button onclick="katt(this)" >Harmadik-gomb</button>
+    <button onclick="katt(this)" >Negyedik-gomb</button>
+    <button onclick="katt(this)" >Ötödik-gomb</button>
+    <button onclick="katt(this)" >Hatodik-gomb</button>
+    <button onclick="katt(this)" >Hetedik-gomb</button>
+    <button onclick="katt(this)" >Nyolcadik-gomb</button>
+    <button onclick="katt(this)" >Kilencedik-gomb</button>
+    <button onclick="katt(this)" >Tízedik-gomb</button>
+    <button onclick="katt(this)" >Tízenegyedik-gomb</button>
+    <button onclick="katt(this)" >Tízenkettedik-gomb</button>
+    
+</body>
+</html>
