@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\dolgozat\dolgozat\bin\Debug\net6.0\dolgozat.exe
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\dolgozat\dolgozat\bin\Debug\net6.0\dolgozat.deps.json
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\dolgozat\dolgozat\bin\Debug\net6.0\dolgozat.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\dolgozat\dolgozat\bin\Debug\net6.0\dolgozat.dll
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\dolgozat\dolgozat\bin\Debug\net6.0\dolgozat.pdb
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\dolgozat\dolgozat\obj\Debug\net6.0\dolgozat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\dolgozat\dolgozat\obj\Debug\net6.0\dolgozat.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\dolgozat\dolgozat\obj\Debug\net6.0\dolgozat.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\dolgozat\dolgozat\obj\Debug\net6.0\dolgozat.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\dolgozat\dolgozat\obj\Debug\net6.0\dolgozat.dll
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\dolgozat\dolgozat\obj\Debug\net6.0\refint\dolgozat.dll
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\dolgozat\dolgozat\obj\Debug\net6.0\dolgozat.pdb
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\dolgozat\dolgozat\obj\Debug\net6.0\dolgozat.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\dolgozat\dolgozat\obj\Debug\net6.0\ref\dolgozat.dll
