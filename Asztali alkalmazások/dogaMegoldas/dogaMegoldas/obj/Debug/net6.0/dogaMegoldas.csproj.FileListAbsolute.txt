@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\dogaMegoldas\dogaMegoldas\bin\Debug\net6.0\dogaMegoldas.exe
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\dogaMegoldas\dogaMegoldas\bin\Debug\net6.0\dogaMegoldas.deps.json
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\dogaMegoldas\dogaMegoldas\bin\Debug\net6.0\dogaMegoldas.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\dogaMegoldas\dogaMegoldas\bin\Debug\net6.0\dogaMegoldas.dll
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\dogaMegoldas\dogaMegoldas\bin\Debug\net6.0\dogaMegoldas.pdb
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\dogaMegoldas\dogaMegoldas\obj\Debug\net6.0\dogaMegoldas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\dogaMegoldas\dogaMegoldas\obj\Debug\net6.0\dogaMegoldas.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\dogaMegoldas\dogaMegoldas\obj\Debug\net6.0\dogaMegoldas.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\dogaMegoldas\dogaMegoldas\obj\Debug\net6.0\dogaMegoldas.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\dogaMegoldas\dogaMegoldas\obj\Debug\net6.0\dogaMegoldas.dll
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\dogaMegoldas\dogaMegoldas\obj\Debug\net6.0\refint\dogaMegoldas.dll
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\dogaMegoldas\dogaMegoldas\obj\Debug\net6.0\dogaMegoldas.pdb
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\dogaMegoldas\dogaMegoldas\obj\Debug\net6.0\dogaMegoldas.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\dogaMegoldas\dogaMegoldas\obj\Debug\net6.0\ref\dogaMegoldas.dll

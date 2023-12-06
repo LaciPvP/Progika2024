@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hóesés 2023.12.06</title>
+    <style>
+        .hopehely
+        {
+            width: 100px;
+            position: absolute;
+            left: 100px;
+            top: 150px;
+
+        }
+
+    </style>
+</head>
+<body onload="mozgat()";>
+    <script>
+        function mozgat()
+        {
+            kepek=document.getElementsByClassName("hopehely");
+            console.log(kepek)
+            for(let i =0; i < kepek.length; i++)
+            {
+                //console.log(kepek[i].style.top)
+                
+                if(kepek[i].style.top==="")
+                {
+                    kepek[i].style.top="0px";
+                }
+                    console.log(kepek[i].style.top.replace("px",""));
+                    let y =parseInt(kepek[i].style.top.replace("px",""));
+                    y+=50;
+                    kepek[i].style.top="0px"=y+"px";
+
+                    if(y>1000)
+            }
+
+            setTimeout(mozgat,1000);
+
+        }
+
+    </script>
+    <img src="hopihe.jpg" id="hopehely" class="hopehely">
+    <img src="hopihe.jpg" id="hopehely2" class="hopehely">
+</body>
+</html>
