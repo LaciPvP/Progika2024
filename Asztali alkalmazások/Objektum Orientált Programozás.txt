@@ -1,0 +1,8 @@
+Class: Üres elem
+Objektum: Példányosított class
+
+-osztály készítése "class" kulcsszó használatával, lehetőleg másik classon kívűl, esetleg külön fileba
+-ezután az osztály nevét
+
+Objektum készítése(példányosítása):
+- a "new" kulcsszó megadásával 
