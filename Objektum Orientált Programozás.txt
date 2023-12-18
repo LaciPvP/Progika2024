@@ -1,0 +1,65 @@
+			
+
+			Objektum Orientált Programozás a C#-ban
+
+
+Class: Üres elem
+Objektum: Példányosított class
+
+-osztály készítése "class" kulcsszóval, lehetőleg másik classon kívűl, esetleg külön fileba
+-ezután az osztály nevét
+
+Objektum készítése(példányosítása):
+- a "new" kulcsszóval
+
+Class részei:
+-mező(field), ez egy változó az osztályon belül
+-metódus/függvény(method), a függvény ad vissza értéket, a method
+-a függvény a class valamilyen alprogramja
+-objektum meghívása: változónév.függvénynév
+
+
+tulajdonságok:
+
+	Class Person
+	{
+	  private streing name; //field
+	
+	  public string name; 	//property
+	{
+	  get{return name;} //get method
+	  set{name = value;} //set method
+
+
+-get: lekérdezésnél lefutó programrész
+-set: adatbeállításkor lefutó program
+-value: amibe az érték kerül
+
+Öröklődés: öröklődés/leszármaztatás hasonló osztály KIS változtatással
+
+-leszármazott osztály(gyerek)
+-alap osztály(szülő), honnan származik
+- öröklődés jele a ":", ol Class Car : Veichle
+
+
+Konstruktor:
+-ugyan az a neve mint az osztálynak
+-nincs típúsa
+-példányosításkor elsőnek lefutó programrész
+
+
+Hozzáférés módosítók:
+-cél:minimális adathozzáférés biztosítása
+
+-public: public adat, minden osztály látja
+-private: privát adat, csak abban az osztáyban látható
+-protected: abban a classban, vagy leszármazottaiban elérhető
+-internal: ??? (erről később)
+
+
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\OOP C# bevezeto\OOP C# bevezeto\bin\Debug\net6.0\OOP C# bevezeto.exe
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\OOP C# bevezeto\OOP C# bevezeto\bin\Debug\net6.0\OOP C# bevezeto.deps.json
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\OOP C# bevezeto\OOP C# bevezeto\bin\Debug\net6.0\OOP C# bevezeto.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\OOP C# bevezeto\OOP C# bevezeto\bin\Debug\net6.0\OOP C# bevezeto.dll
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\OOP C# bevezeto\OOP C# bevezeto\bin\Debug\net6.0\OOP C# bevezeto.pdb
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\OOP C# bevezeto\OOP C# bevezeto\obj\Debug\net6.0\OOP C# bevezeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\OOP C# bevezeto\OOP C# bevezeto\obj\Debug\net6.0\OOP C# bevezeto.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\OOP C# bevezeto\OOP C# bevezeto\obj\Debug\net6.0\OOP C# bevezeto.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\OOP C# bevezeto\OOP C# bevezeto\obj\Debug\net6.0\OOP C# bevezeto.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\OOP C# bevezeto\OOP C# bevezeto\obj\Debug\net6.0\OOP C# bevezeto.dll
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\OOP C# bevezeto\OOP C# bevezeto\obj\Debug\net6.0\refint\OOP C# bevezeto.dll
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\OOP C# bevezeto\OOP C# bevezeto\obj\Debug\net6.0\OOP C# bevezeto.pdb
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\OOP C# bevezeto\OOP C# bevezeto\obj\Debug\net6.0\OOP C# bevezeto.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\OOP C# bevezeto\OOP C# bevezeto\obj\Debug\net6.0\ref\OOP C# bevezeto.dll

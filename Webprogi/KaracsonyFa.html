@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="karifa.css">
+    <title>Karacsonyfa</title>
+</head>
+<body onload="init()">
+    <script>
+        function init()
+        {
+            console.log("start");
+            for(let i=0;i<24;i++)
+            {
+                gombdisz();
+            }
+            
+        }
+
+        function gombdisz()
+        {
+            let elem=document.createElement("img")
+            elem.src="karidisz.png";
+            elem.style.height=rand(30,100)+"px";
+            elem.style.position="absolute";
+            elem.style.left=rand(0,500)+"px";
+            elem.style.top=rand(0,300)+"px";
+            console.log(elem)
+            document.getElementById("fenyo").appendChild(elem);
+        }
+
+
+        function rand(min,max)
+        {
+            return Math.floor(Math.random() * (min-max+1)) + min; 
+
+
+        }
+
+    </script>
+    <div id="fenyo"></div>
+
+
+    
+
+</body>
+</html>
