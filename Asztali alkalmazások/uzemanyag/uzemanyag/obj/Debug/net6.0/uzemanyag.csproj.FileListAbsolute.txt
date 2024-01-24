@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\uzemanyag\uzemanyag\bin\Debug\net6.0\uzemanyag.exe
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\uzemanyag\uzemanyag\bin\Debug\net6.0\uzemanyag.deps.json
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\uzemanyag\uzemanyag\bin\Debug\net6.0\uzemanyag.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\uzemanyag\uzemanyag\bin\Debug\net6.0\uzemanyag.dll
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\uzemanyag\uzemanyag\bin\Debug\net6.0\uzemanyag.pdb
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\uzemanyag\uzemanyag\obj\Debug\net6.0\uzemanyag.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\uzemanyag\uzemanyag\obj\Debug\net6.0\uzemanyag.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\uzemanyag\uzemanyag\obj\Debug\net6.0\uzemanyag.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\uzemanyag\uzemanyag\obj\Debug\net6.0\uzemanyag.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\uzemanyag\uzemanyag\obj\Debug\net6.0\uzemanyag.dll
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\uzemanyag\uzemanyag\obj\Debug\net6.0\refint\uzemanyag.dll
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\uzemanyag\uzemanyag\obj\Debug\net6.0\uzemanyag.pdb
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\uzemanyag\uzemanyag\obj\Debug\net6.0\uzemanyag.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Progi2024\Progika2024\Asztali alkalmazások\uzemanyag\uzemanyag\obj\Debug\net6.0\ref\uzemanyag.dll
