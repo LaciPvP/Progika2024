@@ -1,0 +1,48 @@
++<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>javascriptes tömbgyakorlás</title>
+</head>
+<body>
+    <script>
+//Első feladat 3 fajta módon csináljunk 1-100-ig egy tömböt
+        const szamok1 = [];
+        for(let i = 0; i < 100; i++)
+        {
+            szamok1.push(i);
+        }
+        console.log(szamok1)
+
+
+
+        const szamok2 = [];
+        let i = 0;
+        while(szamok2.length<100)
+        {
+            i++
+            szamok2.push(i)
+        }
+        console.log(szamok2);
+
+
+
+        const szamok3 = [];
+        let j = 0;
+        if(szamok3!=100)
+        {
+            j++
+            szamok3.unshift(j)
+        }
+        else
+        {
+            console.log(szamok3)
+        }
+
+
+
+    </script>
+    
+</body>
+</html>

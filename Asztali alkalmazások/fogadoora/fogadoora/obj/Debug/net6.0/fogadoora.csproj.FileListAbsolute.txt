@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\fogadoora\fogadoora\bin\Debug\net6.0\fogadoora.exe
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\fogadoora\fogadoora\bin\Debug\net6.0\fogadoora.deps.json
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\fogadoora\fogadoora\bin\Debug\net6.0\fogadoora.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\fogadoora\fogadoora\bin\Debug\net6.0\fogadoora.dll
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\fogadoora\fogadoora\bin\Debug\net6.0\fogadoora.pdb
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\fogadoora\fogadoora\obj\Debug\net6.0\fogadoora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\fogadoora\fogadoora\obj\Debug\net6.0\fogadoora.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\fogadoora\fogadoora\obj\Debug\net6.0\fogadoora.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\fogadoora\fogadoora\obj\Debug\net6.0\fogadoora.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\fogadoora\fogadoora\obj\Debug\net6.0\fogadoora.dll
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\fogadoora\fogadoora\obj\Debug\net6.0\refint\fogadoora.dll
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\fogadoora\fogadoora\obj\Debug\net6.0\fogadoora.pdb
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\fogadoora\fogadoora\obj\Debug\net6.0\fogadoora.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\fogadoora\fogadoora\obj\Debug\net6.0\ref\fogadoora.dll
