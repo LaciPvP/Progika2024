@@ -21,6 +21,10 @@ namespace fogadoora
         
         
         }
+        public override string ToString() 
+        {
+            return string.Format("Tanár neve {0} \r\nFoglalt időpont: {1}\r\nFoglalás ideje: {2}" ,nev, idopont, foglalas);
+        }
     }
 
     

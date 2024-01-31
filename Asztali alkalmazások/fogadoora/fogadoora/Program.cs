@@ -1,5 +1,6 @@
 ﻿using fogadoora;
 using System.Globalization;
+using System.Runtime.Serialization.Formatters;
 
 List<adaatok> adat = new List<adaatok>();
 
@@ -27,14 +28,15 @@ for (int i = 0; i < adat.Count(); i++)
     {
         db++;
     }
-    if (db > 0)
-    {
-        Console.WriteLine("{0} néven ennyi időpontfoglalás volt: {1}", tanar, db);
-    }
-    else 
-    {
-        Console.WriteLine("A megadott néven nem volt időpontfoglalás");
-    }
+}
+
+if (db > 0)
+{
+    Console.WriteLine("{0} néven ennyi időpontfoglalás volt: {1}", tanar, db);
+}
+else
+{
+    Console.WriteLine("A megadott néven nem volt időpontfoglalás");
 }
 
 Console.WriteLine("4. Feladat");
@@ -56,3 +58,15 @@ for (int i = 0; i < nevek.Count; i++)
 }
 
 File.WriteAllLines(idopont.Replace(":", "") + ".txt", nevek);
+
+adaatok min = adat[0];
+for (int i = 0; i < adat.Count(); i++) 
+{
+    if (adat[i].foglalas < min.foglalas)
+    {
+        min = adat[i];
+    
+    }
+}
+
+Console.WriteLine(min);
