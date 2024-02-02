@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\jaror\jaror\bin\Debug\net6.0\jaror.exe
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\jaror\jaror\bin\Debug\net6.0\jaror.deps.json
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\jaror\jaror\bin\Debug\net6.0\jaror.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\jaror\jaror\bin\Debug\net6.0\jaror.dll
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\jaror\jaror\bin\Debug\net6.0\jaror.pdb
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\jaror\jaror\obj\Debug\net6.0\jaror.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\jaror\jaror\obj\Debug\net6.0\jaror.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\jaror\jaror\obj\Debug\net6.0\jaror.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\jaror\jaror\obj\Debug\net6.0\jaror.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\jaror\jaror\obj\Debug\net6.0\jaror.dll
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\jaror\jaror\obj\Debug\net6.0\refint\jaror.dll
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\jaror\jaror\obj\Debug\net6.0\jaror.pdb
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\jaror\jaror\obj\Debug\net6.0\jaror.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Progika2024\Asztali alkalmazások\jaror\jaror\obj\Debug\net6.0\ref\jaror.dll

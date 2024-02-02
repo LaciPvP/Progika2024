@@ -29,6 +29,7 @@ function kepBe(){
                 if(kattintas < 2)
                 {
                     uj.style.backgroundImage="url(kepek/"+kepekUrl[i]+")"
+                    uj.dataset.felforditva="true";
                 }
 
                 kattintas++
@@ -51,6 +52,7 @@ kartyak = kever(kartyak);
 function visszaFordit()
 {
     console.dir("ssssssss")
+
 }
 
 for(let i = 0; i < kartyak.length; i++)

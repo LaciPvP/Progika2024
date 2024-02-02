@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Helyi_munkakönyvtár\\Progi2024\\Progika2024\\Asztali alkalmazások\\helsinki1952\\helsinki1952\\helsinki1952.csproj": {}
+    "D:\\Helyi_munkakönyvtár\\Progika2024\\Asztali alkalmazások\\helsinki1952\\helsinki1952\\helsinki1952.csproj": {}
   },
   "projects": {
-    "D:\\Helyi_munkakönyvtár\\Progi2024\\Progika2024\\Asztali alkalmazások\\helsinki1952\\helsinki1952\\helsinki1952.csproj": {
+    "D:\\Helyi_munkakönyvtár\\Progika2024\\Asztali alkalmazások\\helsinki1952\\helsinki1952\\helsinki1952.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Helyi_munkakönyvtár\\Progi2024\\Progika2024\\Asztali alkalmazások\\helsinki1952\\helsinki1952\\helsinki1952.csproj",
+        "projectUniqueName": "D:\\Helyi_munkakönyvtár\\Progika2024\\Asztali alkalmazások\\helsinki1952\\helsinki1952\\helsinki1952.csproj",
         "projectName": "helsinki1952",
-        "projectPath": "D:\\Helyi_munkakönyvtár\\Progi2024\\Progika2024\\Asztali alkalmazások\\helsinki1952\\helsinki1952\\helsinki1952.csproj",
+        "projectPath": "D:\\Helyi_munkakönyvtár\\Progika2024\\Asztali alkalmazások\\helsinki1952\\helsinki1952\\helsinki1952.csproj",
         "packagesPath": "C:\\Users\\talasl21\\.nuget\\packages\\",
-        "outputPath": "D:\\Helyi_munkakönyvtár\\Progi2024\\Progika2024\\Asztali alkalmazások\\helsinki1952\\helsinki1952\\obj\\",
+        "outputPath": "D:\\Helyi_munkakönyvtár\\Progika2024\\Asztali alkalmazások\\helsinki1952\\helsinki1952\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\talasl21\\AppData\\Roaming\\NuGet\\NuGet.Config",

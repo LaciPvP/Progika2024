@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Helyi_munkakönyvtár\\Progi2024\\Progika2024\\Asztali alkalmazások\\dogaMegoldas\\dogaMegoldas\\dogaMegoldas.csproj": {}
+    "D:\\Helyi_munkakönyvtár\\Progika2024\\Asztali alkalmazások\\dogaMegoldas\\dogaMegoldas\\dogaMegoldas.csproj": {}
   },
   "projects": {
-    "D:\\Helyi_munkakönyvtár\\Progi2024\\Progika2024\\Asztali alkalmazások\\dogaMegoldas\\dogaMegoldas\\dogaMegoldas.csproj": {
+    "D:\\Helyi_munkakönyvtár\\Progika2024\\Asztali alkalmazások\\dogaMegoldas\\dogaMegoldas\\dogaMegoldas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Helyi_munkakönyvtár\\Progi2024\\Progika2024\\Asztali alkalmazások\\dogaMegoldas\\dogaMegoldas\\dogaMegoldas.csproj",
+        "projectUniqueName": "D:\\Helyi_munkakönyvtár\\Progika2024\\Asztali alkalmazások\\dogaMegoldas\\dogaMegoldas\\dogaMegoldas.csproj",
         "projectName": "dogaMegoldas",
-        "projectPath": "D:\\Helyi_munkakönyvtár\\Progi2024\\Progika2024\\Asztali alkalmazások\\dogaMegoldas\\dogaMegoldas\\dogaMegoldas.csproj",
+        "projectPath": "D:\\Helyi_munkakönyvtár\\Progika2024\\Asztali alkalmazások\\dogaMegoldas\\dogaMegoldas\\dogaMegoldas.csproj",
         "packagesPath": "C:\\Users\\talasl21\\.nuget\\packages\\",
-        "outputPath": "D:\\Helyi_munkakönyvtár\\Progi2024\\Progika2024\\Asztali alkalmazások\\dogaMegoldas\\dogaMegoldas\\obj\\",
+        "outputPath": "D:\\Helyi_munkakönyvtár\\Progika2024\\Asztali alkalmazások\\dogaMegoldas\\dogaMegoldas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\talasl21\\AppData\\Roaming\\NuGet\\NuGet.Config",
