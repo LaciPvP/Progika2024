@@ -35,8 +35,21 @@ namespace wpfGYAK2
             string nev = textbox1.Text;
             string szhely = textbox2.Text;
             string kor = textbox3.Text;
+            if (nev == "" || szhely == "" || kor == "")
+            {
+                MessageBox.Show("Töltsd ki mind!!");
+            }
+            else 
+            {
+                listbox.Items.Add(nev + ", " + szhely + ", " + kor + ", ");
 
-            listbox.Items.Add(nev+", "+szhely+", "+kor+", ");
+                textbox1.Text = "";
+                textbox2.Text = "";
+                textbox3.Text = "";
+            }
+
+            
+
         }
     }
 }
