@@ -8,8 +8,8 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <TextBox x:Name="textBox" HorizontalAlignment="Left" Margin="133,106,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="215" TextChanged="TextBox_TextChanged"/>
-        <CheckBox x:Name="checkBox" Content="Legyen nagybetűs" HorizontalAlignment="Left" Margin="124,159,0,0" VerticalAlignment="Top" Checked="CheckBox_Checked" Unchecked="checkBox_Unchecked"/>
-        <ListBox d:ItemsSource="{d:SampleData ItemCount=5}" Margin="26,217,452,12"/>
+        <CheckBox x:Name="checkBox" Content="Legyen nagybetűs" HorizontalAlignment="Left" Margin="232,157,0,0" VerticalAlignment="Top" Checked="CheckBox_Checked" Unchecked="checkBox_Unchecked"/>
+        <ListBox x:Name="listBox" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="26,217,452,12" MouseDoubleClick="listBox_MouseDoubleClick"/>
         <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="400,108,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="215"/>
         <Label Content="Szövegbevitel:" HorizontalAlignment="Left" Margin="26,102,0,0" VerticalAlignment="Top"/>
 

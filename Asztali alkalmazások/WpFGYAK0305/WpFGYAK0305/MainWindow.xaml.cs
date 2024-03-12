@@ -32,10 +32,9 @@ namespace WpFGYAK0305
             {
                 textBlock.Text = textBlock.Text.ToUpper();
             }
-            else 
-            {
-            
-            }
+
+            string[] szavak = textBox.Text.Split(" ");
+            listBox.ItemsSource = szavak;
             
         }
 
@@ -50,6 +49,21 @@ namespace WpFGYAK0305
             textBlock.Text = textBox.Text;
             textBox.Focus();
 
+        }
+
+        private void listBox_MouseDoubleClick(object sender, MouseButtonEventArgs e)
+        {
+            string vissza = "";
+            for(int i = 0; i < listBox.Items.Count; i++)
+            {
+                if (listBox.SelectedIndex != i) 
+                {
+                    vissza += listBox.Items[i] + " ";
+                }
+
+                textBox.Text = vissza;
+                
+            }
         }
     }
 }
