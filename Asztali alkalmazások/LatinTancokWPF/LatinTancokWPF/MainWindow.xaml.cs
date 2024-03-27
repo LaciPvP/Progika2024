@@ -43,7 +43,21 @@ namespace LatinTancokWPF
             }
 
             olvas.Close();
+
+            List<string> tancNevek = new List<string>();
+            for (int i = 0; i < tancok.Count; i++) 
+            {
+                if (!tancNevek.Contains(tancok[i].tanc)) 
+                {
+                    tancNevek.Add(tancok[i].tanc);
+                }
+            
+            }
         }
+
+        
+    
+        
 
         private void gomb_Click(object sender, RoutedEventArgs e)
         {
@@ -59,12 +73,38 @@ namespace LatinTancokWPF
         private int tancSzamol(string tanc) 
         {
             int db = 0;
-
-
-
+            for (int i = 0; i < tancok.Count; i++) 
+            {
+                if (tancok[i].tanc == tanc) 
+                {
+                    db++;
+                }
+            }
 
             return db;
         
+        }
+
+        private void ListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            ListBox lb = sender as ListBox;
+            string partner = "Ilyet nem táncolt";
+            //label1.Content=tancSzamol(lb.SelectedItem.ToString());
+            for (int i = 0; tancok.Count > 0; i++) 
+            {
+                if (tancok[i].lany == "Vilma")
+                {
+                    if (tancok[i].tanc == lb.SelectedItem.ToString()) 
+                    {
+                        partner = tancok[i].fiu;
+                        
+                    }
+                
+                }
+            }
+            label5.Content = partner;
+
+
         }
     }
 }

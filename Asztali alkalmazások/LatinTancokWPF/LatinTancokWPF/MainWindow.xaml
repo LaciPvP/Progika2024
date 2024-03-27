@@ -11,6 +11,9 @@
         <Button x:Name="gomb" Content="2. Feladat" HorizontalAlignment="Left" Margin="83,92,0,0" VerticalAlignment="Top" Click="gomb_Click"/>
         <Button Content="3. Feladat" HorizontalAlignment="Left" Margin="83,142,0,0" VerticalAlignment="Top" Click="Button_Click"/>
         <TextBlock x:Name="textBlock2" HorizontalAlignment="Left" Margin="157,144,0,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <ListBox d:ItemsSource="{d:SampleData ItemCount=5}" Margin="83,231,382,32" SelectionChanged="ListBox_SelectionChanged"/>
+        <Label Content="Táncok:" HorizontalAlignment="Left" Margin="29,231,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label5" Content="Label" HorizontalAlignment="Left" Margin="587,269,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
