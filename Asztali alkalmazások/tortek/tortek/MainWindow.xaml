@@ -17,8 +17,8 @@
                     </Grid.ColumnDefinitions>
                     <Label x:Name="szamlalo" Content="Számláló" HorizontalAlignment="Left" Margin="82,97,0,0" VerticalAlignment="Top" Grid.ColumnSpan="3"/>
                     <Label x:Name="nevezo" Content="Nevező" HorizontalAlignment="Left" Margin="82,136,0,0" VerticalAlignment="Top" Grid.ColumnSpan="3"/>
-                    <TextBox x:Name="textbox1" HorizontalAlignment="Left" Margin="20,101,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Grid.Column="2"/>
-                    <TextBox x:Name="textbox2" HorizontalAlignment="Left" Margin="20,141,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Grid.Column="2"/>
+                    <TextBox x:Name="textbox1" HorizontalAlignment="Left" Margin="20,101,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Grid.Column="2" TextChanged="textbox1_TextChanged"/>
+                    <TextBox x:Name="textbox2" HorizontalAlignment="Left" Margin="20,141,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Grid.Column="2" TextChanged="textbox1_TextChanged"/>
                     <Separator HorizontalAlignment="Left" Margin="107,124,0,0" VerticalAlignment="Top" Height="12" Width="174" Grid.ColumnSpan="3"/>
                     <Label Content="=" HorizontalAlignment="Left" Margin="189,112,0,0" VerticalAlignment="Top" Width="21" Grid.Column="2"/>
                     <TextBlock x:Name="textblock1" HorizontalAlignment="Left" Margin="244,120,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="51" Grid.Column="2"/>
@@ -35,7 +35,7 @@
                             </TransformGroup>
                         </Separator.RenderTransform>
                     </Separator>
-                    <TextBlock HorizontalAlignment="Left" Margin="244,120,0,0" TextWrapping="Wrap" Text="eredmeny" VerticalAlignment="Top" Grid.Column="2"/>
+                    <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" Margin="244,120,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Grid.Column="2"/>
                     <TextBlock HorizontalAlignment="Left" Margin="224,234,0,0" TextWrapping="Wrap" Text="számláló" VerticalAlignment="Top" Grid.Column="2"/>
                     <TextBlock HorizontalAlignment="Left" Margin="228,265,0,0" TextWrapping="Wrap" Text="nevező" VerticalAlignment="Top" Grid.Column="2"/>
                     <TextBlock HorizontalAlignment="Left" Margin="179,252,0,0" TextWrapping="Wrap" Text="=" VerticalAlignment="Top" Grid.Column="2"/>
